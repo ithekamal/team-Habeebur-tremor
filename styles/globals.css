@@ -24,3 +24,23 @@ a {
     background: black;
   }
 }
+
+.card {
+  color: aqua;
+  /* width: 50vw; */
+}
+
+.plusImage {
+  height: 30px;
+  width: 30px;
+}
+
+.delete-Button {
+  float: right;
+}
+
+.hover_area {
+  float: right;
+
+  color: rgba(0, 255, 255, 0);
+}
